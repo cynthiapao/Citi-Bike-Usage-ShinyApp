@@ -7,4 +7,4 @@ Project file: codes for data cleaning and visualization
 
 Part 1: a combination of static maps produced in ggplot2 and an interactive map produced in leaflet in Shiny
 
-Part 2: an interavtive plot reflecting the trends within each neighborhood in NYC in Shiy
+Part 2: an interavtive plot reflecting the trends within each neighborhood in NYC in Shiny
