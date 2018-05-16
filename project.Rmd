@@ -150,7 +150,7 @@ nycb.year4@data <- left_join(nycb.year4@data, nyear33.4, by = c(NTAName= "neighb
 
 ```
 
-##Interactive map about injured/killed
+### Interactive map about injured/killed
 
 ```{r}
 spoints1 <- subset(spoints, spoints@data$year == "2013")
